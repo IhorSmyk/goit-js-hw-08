@@ -1,7 +1,3 @@
-
-
-////////////////////////////////////////////////////////     to do 
-
 import Player from '@vimeo/player';
 import { throttle } from 'lodash';
 
@@ -20,4 +16,3 @@ player
   .catch(function (error) {
     console.error(error);
   });
-///////////////////////////////////////////////////////////////////////  to do
